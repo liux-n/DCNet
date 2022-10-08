@@ -103,3 +103,20 @@ bash get_result.sh
 #### TODO
 - [ ] Context-aware Aggregation
 - [ ] Training scripts on COCO dataset
+
+
+VOC split1   1shot:novel map:0.2679
+VOC split1   3shot:novel map:0.4911
+VOC split1   5shot:novel map:0.5240
+VOC split1  10shot:novel map:0.5785
+VOC split2   1shot:novel map:0.1646
+VOC split2   2shot:novel map:0.2765
+VOC split2   3shot:novel map:0.3838
+VOC split2   5shot:novel map:0.4204
+VOC split2  10shot:novel map:0.4449
+VOC split3   1shot:novel map:0.2013
+VOC split3   2shot:novel map:0.3001
+VOC split3   3shot:novel map:0.3284
+VOC split3   5shot:novel map:0.4175
+VOC split3  10shot:novel map:0.4896
+
