@@ -133,3 +133,5 @@ VOC split3   5shot:novel map:0.4175
 
 VOC split3  10shot:novel map:0.4896
 
+VOC上train：18h,finetune:5h
+
